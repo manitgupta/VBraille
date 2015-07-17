@@ -10,6 +10,7 @@ interaction with the modern day computers become a challenge. It takes an
 extraordinary amount of skill and effort for a visually impaired person to become
 proficient at using a computer. The project aims to improve the communication
 system between a Visually Challenged Person and a computer.
+
 III. BACKGROUND
 
 Human – Computer Interaction in our project uses nothing but bare hands as
@@ -25,7 +26,11 @@ and the Ring Finger on each hand represent the 6 dots used in the Braille
 Script. Showing appropriate combination of these fingers to Kinect results in
 gesture recognition and subsequent call to a ‘Key Press Event’ which types Text
 onto the Screen.
-III. ABSTRACT1. OBJECTIVE:
+
+III. ABSTRACT
+
+1. OBJECTIVE:
+
 A gesture-based Braille Keyboard will be developed which will greatly
 enhance the experience of performing daily tasks on the computer. This would
 allow them to become more independent, adapt and use the latest technologies
@@ -34,7 +39,9 @@ development of new input systems rather than the traditional Mouse and
 Keyboard. The above will be achieved using a Kinect sensor for XBOX, and a real-
 time Human Gesture Recognition (HGR) system which will be implemented using
 Microsoft Visual Studio 2013. The programming language mainly used will be C#.
+
 2. BENEFICIARIES:
+
 Till now, majority of the aids development for visually impaired people are
 mere extensions or simple modifications of the existing equipment/technology. In
 either case, they have to learn how to interact and use the system in contrast to
@@ -43,7 +50,9 @@ come naturally. The project aims to bridge this gap and provide a novel method
 for interacting with the computer. Since our project uses Braille Script for
 gestures, using it now will not be a difficult task for a visually impaired person
 since it will come naturally to him.
+
 3. VALUE OF RESULTS:
+
 A lot of active research is going on in the field of Gesture Recognition. Several
 algorithms have already been developed for Hand Detection using Image
 Processing Devices and more work is still being done. As far as the cost is
@@ -51,7 +60,9 @@ concerned, the project does not involve any recurring equipment to be purchased.
 We have started active development of the project and have already
 finished off the first two modules of the project (as stated in description).
 The project is progressing strictly as per the conceived timeline.
+
 IV. RESEARCH:
+
 Fingertip and Hand recognition using Kinect without the aid of color
 segmentation markers is a classic paradigm which has been researched upon by
 variety for Scholars. Even some research papers have been published:
@@ -91,7 +102,9 @@ Fingers
 Two Hands and Count
 of Fingers
 Relative Position of
-palm and Fingers1. Generate near pixels matrix
+palm and Fingers
+
+1. Generate near pixels matrix
 The first step we need to accomplish in order to start to work with the depth
 data, is to decide which pixels we are going to take into account, to carry on the
 tracking. The Kinect can catch the distance of the points which are visible to the
@@ -121,7 +134,9 @@ to know the adjacent pixels of a given one. One final improvement is to set to
 false the values of the borders of the matrix. This way, we have not to check
 each time if a matrix access is out of bounds. That will increase the efficiency in
 the contour algorithm, and we do not lose almost information.Figure 1: Relative depth method representation
+
 2. Decrease noise
+
 This step is optional, but sometimes could help if we are too far from the Kinect
 or there too much noise.
 The dilation and erosion are used for expanding and contracting the shapes
@@ -135,7 +150,9 @@ image will contain a rounder shape which preserves the same size of the first
 one.
 These methods are not cost effective, they are only needed in case that the
 algorithm cannot find the fingertips.
+
 3. Classify in contour or inside pixels
+
 Finally we have a binary matrix which contains the shape of the hands. Each
 pixel in this matrix points out if the pixel is part of the hand (is valid) or not. Thevalid pixels of this matrix must be divided in contour or interior pixels. A pixel is
 interior if every adjacent pixel (up, down, left and right pixels) are also valid,
@@ -143,7 +160,9 @@ and contour if one of its adjacent pixels are not valid.
 This information should be stored in two different lists, otherwise we have to go
 over the whole matrix several times, in order to calculate the sorted contour and
 the palm centre.
+
 4. Differentiate hands and calculate their contour
+
 It seems that the contour is already calculated, but we need a sorted contour for
 calculating the fingertips and to improve the efficiency of the calculation of the
 centre of the palm. A sorted contour means that the contour must be a list of
@@ -156,7 +175,9 @@ point to calculate the sorted contour of another hand. If all the contour points
 has been visited, there are no more hands to analyse. Must take into account
 that could be some noise that create some small shapes. If the contour is so
 small compared to the total number of contour points, we must discard it.
+
 5. Allocate interior points
+
 At this point, we have already calculated the number of hands we have, and
 their contour. The next step is to allocate each interior point into the current
 hand. One heuristic could be to calculate the container box. The container box of
@@ -169,7 +190,10 @@ point is inside more than one box. In this case, the pixel is wrongly classified
 These kind of errors does not affect the final result, due to the objective of
 classify the interior points into the correct hand is to find the centre of the palm,
 and the misclassified pixels can never be the centre of the palm.
-6. Find the center of the palmThe center of the palm is one of the points that gives us a lot of information.
+
+6. Find the center of the palm
+
+ The center of the palm is one of the points that gives us a lot of information.
 This point indicates where the hand is, and together with the fingertips, could be
 used for calculating other relevant information which, for example, could help us
 to identify gestures. The center of the hand is, usually, the center of the biggest
@@ -178,11 +202,13 @@ calculate the minimum distances from each interior point to every contour point,
 and from these distances we select the maximum. The point that corresponds to
 that distance is the center of the hand. This algorithm consume a lot of time, so
 we must improve its efficiency. We have done it in two ways:
+
 1. While calculating the minimum distance of an interior point to every
 contour point, if the current minimum is lesser than the current
 maximum, we can assure that this point is not the center, so there is no
 need of calculating the distance to the rest of contour points for this
 interior point.
+
 2. Due to in the list of the interior and contour points, consecutive points are
 near in the hand, we can only do the calculations for 1 in N consecutive
 points. Using a small value of N greater than 1, the error is negligible and
@@ -193,6 +219,7 @@ use the algorithm. The circle in the figure is the biggest one that the hand sha
 can contains, so the center of that circle should be the center, and indeed it is
 the center. Sometimes we could have problems if the arm is showed, and the
 algorithm allocate the center in the arm.
+
 7. Find the fingertips
 The method used to find the fingertips is the k-curvature algorithm. The main
 idea is for each point P(i) of the contour, get the P(i-k) and P(i+k) points, and
@@ -228,12 +255,14 @@ box whose left-upper corner is (0, 0), and the right-down corner is (width,
 height). The Z value is between 400 and 8000, the vision space the Kinect can
 catch measured in centimeters, although Kinect is not too accurate for points
 further than 4 meters.
+
 9. One Hand and Count of Fingers
 Fig 1: The Backspace Gesture
 In case only hand is detected, irrespective of the number of fingers shown, the
 application prompts the user to “Show Both Hands” using audio output. Once
 both hands are placed in front of Kinect, the user may use the appropriate
 symbols to type and edit (Fig. 1).
+
 10. Two Hands and Count of Fingers
 Firstly, the hands detected are assigned to two variables of a List (data type),
 which hold the coordinates of the centre of the palm. In case, the Y-coordinate
@@ -243,7 +272,9 @@ coordinates of Right-Hand.
 Next, the number of fingers on each hand is detected. Based upon the number
 of Fingers, the control of the program accesses different portions of the code, foreg, when the user shows 1 finger on each hand, only the part of code which
 stores the gestures for C, E or I is used. This ensures fast gesture recognition.
+
 11. Relative Position of Palms and Fingers
+
 After the numbers of fingers have been detected, the program moves onto
 compare the relative position of each finger. This is done by calculating the pixel
 distance between successive fingertips recognized. When these values fall into
@@ -251,7 +282,9 @@ the thresholded data stored inside the application for each gesture, the Keys
 BOT is called. This initiates a key press event which writes text on the screen.
 Finally, the alphabet corresponding to the detected gesture is passed to the TTS
 engine.
+
 12. Experiments with the Prototype/Workability
+
 Fig 2: The Alphabet ‘A’Fig 3: The Alphabet ‘B’
 Video LINK of the Project DEMO:
 http://youtu.be/5zy1_OcHMzI
