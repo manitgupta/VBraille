@@ -1,0 +1,57 @@
+C:\Users\Himanshu\Documents\Visual Studio 2012\Projects\FingerTracking\FingerTracking\bin\Debug\FingerTracking.exe
+C:\Users\Himanshu\Documents\Visual Studio 2012\Projects\FingerTracking\FingerTracking\bin\Debug\FingerTracking.pdb
+C:\Users\Himanshu\Documents\Visual Studio 2012\Projects\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.Properties.Resources.resources
+C:\Users\Himanshu\Documents\Visual Studio 2012\Projects\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.csproj.GenerateResource.Cache
+C:\Users\Himanshu\Documents\Visual Studio 2012\Projects\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.exe
+C:\Users\Himanshu\Documents\Visual Studio 2012\Projects\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.pdb
+C:\Users\Himanshu\Documents\Visual Studio 2012\Projects\FingerTracking\FingerTracking\obj\x86\Debug\Mouse.VirtualKeyboard.resources
+C:\Users\Himanshu\Documents\Visual Studio 2012\Projects\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.csprojResolveAssemblyReference.cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\FingerTracking\FingerTracking\bin\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\FingerTracking\FingerTracking\bin\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\FingerTracking\FingerTracking\obj\x86\Debug\Mouse.VirtualKeyboard.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.Properties.Resources.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.csproj.GenerateResource.Cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille\FingerTracking\obj\x86\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille\FingerTracking\obj\x86\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille\FingerTracking\obj\x86\Debug\FingerTracking.csprojResolveAssemblyReference.cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille\FingerTracking\obj\x86\Debug\Mouse.VirtualKeyboard.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille\FingerTracking\obj\x86\Debug\FingerTracking.Properties.Resources.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille\FingerTracking\obj\x86\Debug\FingerTracking.csproj.GenerateResource.Cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille\FingerTracking\bin\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille\FingerTracking\bin\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy\FingerTracking\obj\x86\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy\FingerTracking\obj\x86\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy\FingerTracking\bin\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy\FingerTracking\bin\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy\FingerTracking\obj\x86\Debug\FingerTracking.csprojResolveAssemblyReference.cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy\FingerTracking\obj\x86\Debug\FingerTracking.Properties.Resources.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy\FingerTracking\obj\x86\Debug\FingerTracking.csproj.GenerateResource.Cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy\FingerTracking\obj\x86\Debug\FingerTracking.MainWindow.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy - Copy\FingerTracking\obj\x86\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy - Copy\FingerTracking\obj\x86\Debug\FingerTracking.csprojResolveAssemblyReference.cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy - Copy\FingerTracking\obj\x86\Debug\FingerTracking.MainWindow.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy - Copy\FingerTracking\obj\x86\Debug\FingerTracking.Properties.Resources.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy - Copy\FingerTracking\obj\x86\Debug\FingerTracking.csproj.GenerateResource.Cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy - Copy\FingerTracking\bin\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy - Copy\FingerTracking\bin\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille - Copy - Copy\FingerTracking\obj\x86\Debug\FingerTracking.pdb
+C:\myfolder\FingerTracking\obj\x86\Debug\FingerTracking.exe
+C:\myfolder\FingerTracking\obj\x86\Debug\FingerTracking.pdb
+C:\myfolder\FingerTracking\bin\Debug\FingerTracking.exe
+C:\myfolder\FingerTracking\bin\Debug\FingerTracking.pdb
+C:\myfolder\FingerTracking\obj\x86\Debug\FingerTracking.csprojResolveAssemblyReference.cache
+C:\myfolder\FingerTracking\obj\x86\Debug\FingerTracking.MainWindow.resources
+C:\myfolder\FingerTracking\obj\x86\Debug\FingerTracking.Properties.Resources.resources
+C:\myfolder\FingerTracking\obj\x86\Debug\FingerTracking.csproj.GenerateResource.Cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\bin\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\bin\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.csprojResolveAssemblyReference.cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.MainWindow.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.Properties.Resources.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.csproj.GenerateResource.Cache

@@ -1,0 +1,109 @@
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\bin\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\bin\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.MainWindow.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.Properties.Resources.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\FingerTracking\obj\x86\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\FingerTracking\bin\Debug\FingerTracking.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\FingerTracking\bin\Debug\FingerTracking.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\FingerTracking\obj\x86\Debug\Braille Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\FingerTracking\obj\x86\Debug\BrailleKeyboard.MainWindow.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\FingerTracking\obj\x86\Debug\BrailleKeyboard.Properties.Resources.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\FingerTracking\obj\x86\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\Braille Keyboard\bin\Debug\BrailleKeyboard.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\Braille Keyboard\bin\Debug\BrailleKeyboard.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.MainWindow.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.Properties.Resources.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final - Copy\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\bin\Debug\BrailleKeyboard.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\bin\Debug\BrailleKeyboard.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.MainWindow.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.Properties.Resources.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\bin\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\bin\Debug\BrailleKeyboard.application
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.pdb
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\bin\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\bin\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\bin\Debug\BrailleKeyboard.exe
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\bin\Debug\BrailleKeyboard.pdb
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.MainWindow.resources
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.Properties.Resources.resources
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Himanshu\Desktop\Braille App Final\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.pdb
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\bin\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\bin\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\bin\Debug\BrailleKeyboard.exe
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\bin\Debug\BrailleKeyboard.pdb
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.MainWindow.resources
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.Properties.Resources.resources
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Himanshu\Desktop\Braille App Final_V2\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\bin\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\bin\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\bin\Debug\BrailleKeyboard.exe
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\bin\Debug\BrailleKeyboard.pdb
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.MainWindow.resources
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.Properties.Resources.resources
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe
+C:\Users\Himanshu\Desktop\Braille App Final_V2 - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.pdb
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\bin\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\bin\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\bin\Debug\BrailleKeyboard.exe
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\bin\Debug\BrailleKeyboard.pdb
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.MainWindow.resources
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.Properties.Resources.resources
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe
+C:\Users\Himanshu\Desktop\Braille App Final_V2 -Multithread Sleep - Copy\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.pdb
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\bin\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\bin\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\bin\Debug\BrailleKeyboard.exe
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\bin\Debug\BrailleKeyboard.pdb
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.MainWindow.resources
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.Properties.Resources.resources
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe.manifest
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.application
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe
+C:\Users\Himanshu\Desktop\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.pdb
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\bin\Debug\BrailleKeyboard.exe.manifest
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\bin\Debug\BrailleKeyboard.application
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\bin\Debug\BrailleKeyboard.exe
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\bin\Debug\BrailleKeyboard.pdb
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csprojResolveAssemblyReference.cache
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.MainWindow.resources
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.Properties.Resources.resources
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe.manifest
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.application
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.exe
+G:\Braille App All Stages\Braille App Final_V3_Final Build\Braille Keyboard\obj\x86\Debug\BrailleKeyboard.pdb

@@ -1,0 +1,8 @@
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\bin\x64\Debug\BrailleKeyboard.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\bin\x64\Debug\BrailleKeyboard.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x64\Debug\BrailleKeyboard.MainWindow.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x64\Debug\BrailleKeyboard.Properties.Resources.resources
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x64\Debug\Braille Keyboard.csproj.GenerateResource.Cache
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x64\Debug\BrailleKeyboard.exe
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x64\Debug\BrailleKeyboard.pdb
+C:\Users\Manit-PC\Documents\Visual Studio 2013\Projects\Braille App Final\Braille Keyboard\obj\x64\Debug\Braille Keyboard.csprojResolveAssemblyReference.cache
